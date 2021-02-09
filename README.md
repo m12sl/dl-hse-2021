@@ -15,4 +15,4 @@
 3. Тренировка сетей. [Слайды](https://docs.google.com/presentation/d/1-PC_ZzJneOavDxuti0i0_wbqQOt7lG_CvfiBW0wVB6c/edit?usp=sharing), [Семинар](https://github.com/m12sl/dl-hse-2021/blob/master/03-training/seminar.ipynb), [Опрос](https://forms.yandex.ru/u/6015460deef95b3cd5f5ee5f/), [Домашка](https://github.com/m12sl/dl-hse-2021/blob/master/03-training/homework.ipynb)
 
 
-4. Отладка сетей. [Опрос](https://forms.yandex.ru/u/602187178b36e5cd8046f723/) [Домашка](https://github.com/m12sl/dl-hse-2021/blob/master/04-debug/homework.ipynb)
+4. Отладка сетей. [Слайды](https://docs.google.com/presentation/d/1vQi2j5ow8A0X3Zs9XlNecWrVa8HHizoON9par-X9p-Y/edit?usp=sharing) [Семинар](https://github.com/m12sl/dl-hse-2021/blob/master/04-debug/seminar.ipynb) [Опрос](https://forms.yandex.ru/u/602187178b36e5cd8046f723/) [Домашка](https://github.com/m12sl/dl-hse-2021/blob/master/04-debug/homework.ipynb)
