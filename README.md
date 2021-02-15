@@ -16,3 +16,6 @@
 
 
 4. Отладка сетей. [Слайды](https://docs.google.com/presentation/d/1vQi2j5ow8A0X3Zs9XlNecWrVa8HHizoON9par-X9p-Y/edit?usp=sharing) [Семинар](https://github.com/m12sl/dl-hse-2021/blob/master/04-debug/seminar.ipynb) [Опрос](https://forms.yandex.ru/u/602187178b36e5cd8046f723/) [Домашка](https://github.com/m12sl/dl-hse-2021/blob/master/04-debug/homework.ipynb)
+
+
+5. Компьютерное зрение часть 1. [Слайдыi](https://docs.google.com/presentation/d/1qhiR6L-_VYyi3xx_PIb5zz5to3zE6q9M8cnrFIZDqbU/edit?usp=sharing) [Семинар](https://github.com/m12sl/dl-hse-2021/blob/master/05-computer-vision-1/seminar.ipynb) [Опрос](https://forms.yandex.ru/u/602a1e0c8b36e596a8754aab/) [Домашка](https://github.com/m12sl/dl-hse-2021/blob/master/05-computer-vision-1/homework.ipynb)
