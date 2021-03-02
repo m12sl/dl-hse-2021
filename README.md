@@ -19,3 +19,6 @@
 
 
 5. Компьютерное зрение часть 1. [Слайды](https://docs.google.com/presentation/d/1qhiR6L-_VYyi3xx_PIb5zz5to3zE6q9M8cnrFIZDqbU/edit?usp=sharing) [Семинар](https://github.com/m12sl/dl-hse-2021/blob/master/05-computer-vision-1/seminar.ipynb) [Опрос](https://forms.yandex.ru/u/602a1e0c8b36e596a8754aab/) **Домашка TBA**
+
+
+6. Компьютерное зрение часть 2. [Семинар](https://github.com/m12sl/dl-hse-2021/blob/master/06-computer-vision-2/seminar.ipynb) [Опрос](https://forms.yandex.ru/u/603a4d4898c3e06914cbb393/) [Домашка](https://github.com/m12sl/dl-hse-2021/blob/master/05-computer-vision-1/homework.ipynb)
