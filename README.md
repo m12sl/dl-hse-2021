@@ -22,3 +22,7 @@
 
 
 6. Компьютерное зрение часть 2. [Семинар](https://github.com/m12sl/dl-hse-2021/blob/master/06-computer-vision-2/seminar.ipynb) [Опрос](https://forms.yandex.ru/u/603a4d4898c3e06914cbb393/) [Домашка](https://github.com/m12sl/dl-hse-2021/blob/master/05-computer-vision-1/homework.ipynb)
+
+
+7. Комьютерное зрение часть 3. Object Detection. [Семинар](https://github.com/m12sl/dl-hse-2021/blob/master/07-computer-vision-3/seminar.ipynb)
+[Опрос](https://forms.yandex.ru/u/6050a72fb409922ea76109bd/)
